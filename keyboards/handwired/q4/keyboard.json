@@ -9,8 +9,8 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["A1", "A1", "A1", "A1"],
-        "rows": ["A2"]
+        "cols": ["B5", "B7", "B8", "B9"],
+        "rows": ["B4"]
     },
     "processor": "GD32VF103",
     "url": "https://shithouse.tv/",
